@@ -1,0 +1,28 @@
+{
+  "name": "lorebary-deepseek-proxy",
+  "version": "1.0.0",
+  "description": "NVIDIA NIM proxy for DeepSeek V3.2 optimized for Lorebary",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "dependencies": {
+    "axios": "^1.6.0",
+    "cors": "^2.8.5",
+    "dotenv": "^17.2.3",
+    "express": "^4.18.2"
+  },
+  "engines": {
+    "node": "24.x"
+  },
+  "keywords": [
+    "lorebary",
+    "deepseek",
+    "nvidia",
+    "nim",
+    "proxy"
+  ],
+  "author": "",
+  "license": "Freeuse"
+}
