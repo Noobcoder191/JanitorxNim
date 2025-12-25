@@ -14,8 +14,8 @@ A proxy server that connects Lorebary (or any OpenAI-compatible client) to NVIDI
 
 - [Node.js](https://nodejs.org/) (v24 LTS)
 - [Cloudflare Tunnel](https://developers.cloudflare.com/cloudflare-one/connections/connect-networks/downloads/) (for exposing localhost)
-- [NVIDIA NIM API key] (get one from [NVIDIA](https://build.nvidia.com/))
-- [Dotenv] (node has to already be installed before installing dotenv)
+- NVIDIA NIM API key (get one from [NVIDIA](https://build.nvidia.com/))
+- Dotenv (node has to already be installed before installing dotenv)
   
 ## Installation
 
