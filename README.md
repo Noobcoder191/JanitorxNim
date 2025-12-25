@@ -31,9 +31,9 @@ npm install
 NIM_API_KEY=your_nvidia_api_key_here
 ```
 
-4. Move the cloudflared executable to the root folder, then rename it to "cloudflared.exe".
+4. Move the cloudflared executable to the proxy folder, then rename it to "cloudflared.exe".
 
-5. Install dotenv by running "npm i dotenv" in your command prommpt. 
+5. Install dotenv by running "npm i dotenv" in your command prompt. 
 
 ## Usage
 
